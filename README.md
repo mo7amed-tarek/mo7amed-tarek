@@ -27,11 +27,11 @@ ________________________________________________________________________________
 
  🛠️ Tech Stack
 
- *💙 Flutter & Dart
- *🌐 REST APIs
- *🔥 Firebase
- *🧩 Clean Architecture
- *🗄️ SQLite / Local Storage
+ * 💙 Flutter & Dart
+ * 🌐 REST APIs
+ * 🔥 Firebase
+ * 🧩 Clean Architecture
+ * 🗄️ SQLite / Local Storage
 
 
 
