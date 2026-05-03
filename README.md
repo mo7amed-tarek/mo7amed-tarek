@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I'm Mohamed Tarek
 
-<!--
-**mo7amed-tarek/mo7amed-tarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀Flutter Developer | Mobile Apps | API Integration | Clean Architecture**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 💡 About Me
+
+ 📱 Passionate about building high-quality mobile applications using Flutter
+ 🔗 Experienced in API Integration & Backend Communication
+ 🧠 Always learning new technologies and improving problem-solving skills
+ 🎯 Focused on writing clean, scalable, and maintainable code
+
+
+
+ 🛠️ Tech Stack
+
+ 💙 Flutter & Dart
+ 🌐 REST APIs
+ 🔥 Firebase
+ 🧩 Clean Architecture
+ 🗄️ SQLite / Local Storage
+
+
+
+ 📫 Contact Me
+
+ 📧 Email: [mt917154@gmail.com](mailto:mt917154@gmail.com)
+
+
+
+ ⚡ Fun Fact
+
+  I turn ideas into real mobile apps 🚀
+
